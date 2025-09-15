@@ -1,0 +1,5 @@
+[01-Jun-2021 17:32:49 UTC] PHP Warning:  Use of undefined constant MYSQL_HOST - assumed 'MYSQL_HOST' (this will throw an Error in a future version of PHP) in /home/mbsoluti/public_html/ukuk2021/index.php on line 21
+[01-Jun-2021 17:32:49 UTC] PHP Warning:  Use of undefined constant MYSQL_USER - assumed 'MYSQL_USER' (this will throw an Error in a future version of PHP) in /home/mbsoluti/public_html/ukuk2021/index.php on line 21
+[01-Jun-2021 17:32:49 UTC] PHP Warning:  Use of undefined constant MYSQL_DATABASE - assumed 'MYSQL_DATABASE' (this will throw an Error in a future version of PHP) in /home/mbsoluti/public_html/ukuk2021/index.php on line 21
+[01-Jun-2021 17:32:49 UTC] PHP Warning:  Use of undefined constant MYSQL_PASSWD - assumed 'MYSQL_PASSWD' (this will throw an Error in a future version of PHP) in /home/mbsoluti/public_html/ukuk2021/index.php on line 21
+[01-Jun-2021 17:32:49 UTC] PHP Warning:  Use of undefined constant MYSQL_PORT - assumed 'MYSQL_PORT' (this will throw an Error in a future version of PHP) in /home/mbsoluti/public_html/ukuk2021/index.php on line 21
